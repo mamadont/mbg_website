@@ -5,6 +5,7 @@ h1 {
 
 ul li {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
 }
 
 .page-holder {
@@ -12,8 +13,8 @@ ul li {
     min-width: 100vw;
 }
 
-.bg-cover {
-    background-size: cover !important;
+.bg-success {
+    background: transparent !important;
 }
 
 .masthead {
