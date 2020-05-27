@@ -5,7 +5,6 @@ h1 {
 
 ul li {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: x-large;
 }
 
 .page-holder {
@@ -18,7 +17,7 @@ ul li {
 }
 
 .masthead {
-    background-image: url("/assets/img/image1.jpg");
+    background-image: url("/assets/img/image9.jpg");
     height: 100vh;
     min-height: 500px;
     background-size: cover;
